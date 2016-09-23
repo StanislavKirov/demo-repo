@@ -1,1 +1,2 @@
-Нов файл
+﻿Нов файл
+Updating with Bash…
